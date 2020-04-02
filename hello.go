@@ -1,9 +1,9 @@
 package moduledependencytest
 
-func Hello() string {
+func HelloV3() string {
 	return "Hello World"
 }
 
-func Proverb() string {
+func ProverbV3() string {
 	return "proverb"
 }
