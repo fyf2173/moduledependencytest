@@ -1,10 +1,10 @@
 package moduledependencytest
 
-func HelloV3() string {
+func HelloV4() string {
 	return "Hello World"
 }
 
-func ProverbV3() string {
+func ProverbV4() string {
 	return "proverb"
 }
 
