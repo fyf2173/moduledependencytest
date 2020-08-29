@@ -7,3 +7,7 @@ func HelloV3() string {
 func ProverbV3() string {
 	return "proverb"
 }
+
+func TestHelloV4() string {
+	return "hello4"
+}
